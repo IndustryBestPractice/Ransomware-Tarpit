@@ -1,5 +1,5 @@
 ################################
-# clone-honeyfiles.p1
+# clone-honeyfiles.ps1
 #
 # Very simple script to clone the directory structure
 # and file names of a production file server to a 
